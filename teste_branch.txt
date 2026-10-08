@@ -1,1 +1,3 @@
 Arquivo criado na branch atividades-recuperacao.
+
+this change was made during the practical activity.
